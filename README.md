@@ -1,7 +1,7 @@
 
 
 
-# Python-Journey-from-Novice-to-Expert
+# Python-Journey-from-Basic-to-Expert
 Python-Journey-from-Novice-to-Expert by Packt Publishing
 
 ###What You Will Learn:
